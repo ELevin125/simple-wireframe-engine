@@ -17,7 +17,7 @@ class Renderer {
         // behind camera, so don't draw
         if (translatedZ < 0) {
             return -1;
-        }
+        } 
     
         let screenDistance = 400; // FOV
     
