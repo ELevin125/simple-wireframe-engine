@@ -1,6 +1,5 @@
-![image](https://github.com/ELevin125/simple-wireframe-engine/assets/123626350/c3769d51-695f-4cfb-a478-27c20fa08128)
-
 # Simple Wireframe Engine
+![image](https://github.com/ELevin125/simple-wireframe-engine/assets/123626350/c3769d51-695f-4cfb-a478-27c20fa08128)
 
 This project is a simple wireframe engine with a lumberjack demo. The code utilizes a simple wireframe engine to render the environment and trees in a 3D space. It employs basic geometric shapes to represent objects such as trees and the axe. The camera movement and rotation are implemented to simulate a first-person perspective.
 
